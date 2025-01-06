@@ -1,8 +1,8 @@
 {
     "geth": {
         "none": {
-            "link": "https://complete.snapshots.48.club/geth.fast.45012199.tar.zst",
-            "md5": "f11f5ec9afc7ae67d69e28060b6c3dad",
+            "link": "https://complete.snapshots.48.club/geth.fast.45516337.tar.zst",
+            "md5": "9751649c0bfd4ef65974a30c1056ac95",
             "flags": "--history.transactions=90000 --syncmode=full --db.engine=pebble --tries-verify-mode=none"
         },
         "local": {
