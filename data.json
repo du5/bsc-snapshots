@@ -3,11 +3,13 @@
         "none": {
             "link": "https://complete.snapshots.48.club/geth.fast.45516337.tar.zst",
             "md5": "9751649c0bfd4ef65974a30c1056ac95",
+            "env": {},
             "flags": "--history.transactions=90000 --syncmode=full --db.engine=pebble --tries-verify-mode=none"
         },
         "local": {
             "link": "https://complete.snapshots.48.club/geth.full.45499660.tar.zst",
             "md5": "c97647b183155c0b5aaddf88110cbf16",
+            "env": {},
             "flags": "--history.transactions=90000 --syncmode=full --db.engine=pebble --tries-verify-mode=local"
         }
     },
@@ -15,6 +17,9 @@
         "fast": {
             "link": "https://complete.snapshots.48.club/erigon.45363273.tar.zst",
             "md5": "054c93b4617550bfcf61cb0be5566efb",
+            "env": {
+                "ERIGON_DISCARD_COMMITMENT": true
+            },
             "flags": "--prune.mode=archive --prune.distance.blocks=90000 --prune.distance=90000 --db.pagesize=16kb"
         }
     }
