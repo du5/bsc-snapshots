@@ -15,8 +15,8 @@
     },
     "erigon": {
         "fast": {
-            "link": "https://complete.snapshots.48.club/erigon.45363273.tar.zst",
-            "md5": "054c93b4617550bfcf61cb0be5566efb",
+            "link": "https://complete.snapshots.48.club/erigon.45809895.tar.zst",
+            "md5": "c29e56b7a44df4b098bf1e809f06c1b0",
             "env": {
                 "ERIGON_DISCARD_COMMITMENT": true
             },

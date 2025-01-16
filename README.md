@@ -13,7 +13,7 @@ Full snapshots of the BSC mainnet, containing complete block data, suitable for 
 | --- | --- | --- |
 | [geth.fast.45516337.tar.zst](https://complete.snapshots.48.club/geth.fast.45516337.tar.zst) | `9751649c0bfd4ef65974a30c1056ac95` | 221.10G |
 | [geth.full.45499660.tar.zst](https://complete.snapshots.48.club/geth.full.45499660.tar.zst) | `c97647b183155c0b5aaddf88110cbf16` | 608.07G |
-| [erigon.45363273.tar.zst](https://complete.snapshots.48.club/erigon.45363273.tar.zst) | `054c93b4617550bfcf61cb0be5566efb` | 346.31G |
+| [erigon.45809895.tar.zst](https://complete.snapshots.48.club/erigon.45809895.tar.zst) | `c29e56b7a44df4b098bf1e809f06c1b0` | 199.37G |
 
 
 ## Incremental Snapshots
